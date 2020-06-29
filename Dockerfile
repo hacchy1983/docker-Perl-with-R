@@ -4,6 +4,7 @@ RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get -y --no-install-rec
         libgetopt-simple-perl \
 	r-base-core \
 	r-cran-ggplot2 \
+	r-cran-glmnet \
 	r-cran-tidyverse
 
 
